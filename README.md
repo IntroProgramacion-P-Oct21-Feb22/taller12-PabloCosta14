@@ -23,6 +23,7 @@ public class Ejemplo00 {
 }
 ```
 #### Respuesta aquí
+La salida es 17
 
 #### Fin respuesta
 
